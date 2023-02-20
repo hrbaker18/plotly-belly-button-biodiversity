@@ -2,7 +2,11 @@
 
 ## Purpose
 
-This project was completed to visualize bacterial data for each volunteer. Once the dashboard is finished, each volunteer's demographic information, the top ten bacteria living inside their belly button, frequency they wash their belly button, and bacteria cultures per sample will be visible on the website. 
+This project was completed to visualize bacterial data for each volunteer. Once the dashboard is finished, each volunteer's demographic information, the top ten bacteria living inside their belly button, frequency they wash their belly button, and bacteria cultures per sample will be visible on the website.
+
+## Link to Website
+
+[Belly Button Biodiversity](https://hrbaker18.github.io/plotly-belly-button-biodiversity/ "Interactive Dashboard")
 
 ## Overview of Dashboard
 
